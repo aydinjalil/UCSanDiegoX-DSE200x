@@ -5,14 +5,6 @@ Project1
 
 Comparing CO2 emissions and Renewable energy consumption in correlation to the GDP for Developed versus Undeveloped Countries
 
-Team Members
-
-Georgia Leigh / geleigh 
-Aydin Jalilov / aydinjalil
-Jackie Kamprath / JKx2020
-Robert Cox Jr. / robertcox324
-Seung min Yoo / Seung-David-Yoo
-
 Project Description/Outline
 
 I was exploring different indicators within the same dataset and there are interesting things. CO2 emission and GDP correlation in US and US versus developed countries. We are looking at different sources of the CO2 emissions and their correlation to CO2 emission per capita, etc. We can then relate it to the life expectancy as well or different indicators.
